@@ -1,0 +1,49 @@
+[rospy.client][INFO] 2023-06-08 16:36:15,068: init_node, name[/speech_service], pid[6941]
+[xmlrpc][INFO] 2023-06-08 16:36:15,072: XML-RPC server binding to 0.0.0.0:0
+[xmlrpc][INFO] 2023-06-08 16:36:15,075: Started XML-RPC server [http://192.168.1.250:43405/]
+[rospy.impl.masterslave][INFO] 2023-06-08 16:36:15,080: _ready: http://192.168.1.250:43405/
+[xmlrpc][INFO] 2023-06-08 16:36:15,095: xml rpc node: starting XML-RPC server
+[rospy.init][INFO] 2023-06-08 16:36:15,096: ROS Slave URI: [http://192.168.1.250:43405/]
+[rospy.registration][INFO] 2023-06-08 16:36:15,099: Registering with master node http://192.168.1.250:11311
+[rospy.init][INFO] 2023-06-08 16:36:15,203: registered with master
+[rospy.rosout][INFO] 2023-06-08 16:36:15,204: initializing /rosout core topic
+[rospy.rosout][INFO] 2023-06-08 16:36:15,261: connected to core topic /rosout
+[rospy.simtime][INFO] 2023-06-08 16:36:15,276: /use_sim_time is not set, will not subscribe to simulated time [/clock] topic
+[rosout][INFO] 2023-06-08 16:36:15,319: Start festivel TTS service
+[rospy.internal][INFO] 2023-06-08 16:36:15,528: topic[/rosout] adding connection to [/rosout], count 0
+[rosout][INFO] 2023-06-08 16:36:31,880: Start speech:  Картина - Последний день Помпеи. Автор - Карл Павлович Брюллов
+[rosout][INFO] 2023-06-08 16:36:38,232: Speech end
+[rosout][INFO] 2023-06-08 16:36:43,968: Start speech:  Картина - Ночной дозор. Автор - Рембрандт
+[rosout][INFO] 2023-06-08 16:36:48,825: Speech end
+[rosout][INFO] 2023-06-08 16:36:54,581: Start speech:  Картина - Постоянство памяти. Автор - Сальвадор Дали
+[rosout][INFO] 2023-06-08 16:37:01,500: Speech end
+[rosout][INFO] 2023-06-08 16:37:07,226: Start speech:  Картина - Черный квадрат. Автор - Каземир Малевич
+[rosout][INFO] 2023-06-08 16:37:13,791: Speech end
+[rosout][INFO] 2023-06-08 16:37:19,553: Start speech:  Картина - Девушка с жемчужной серёжкой. Автор - Ян Вермеер
+[rosout][INFO] 2023-06-08 16:37:26,691: Speech end
+[rosout][INFO] 2023-06-08 16:37:32,507: Start speech:  Картина - Сикстинская мадонна. Автор - Рафаэль Санти
+[rosout][INFO] 2023-06-08 16:37:38,131: Speech end
+[rosout][INFO] 2023-06-08 16:37:43,934: Start speech:  Картина - Мона Лиза. Автор - Леонардо Да Винчи
+[rosout][INFO] 2023-06-08 16:37:48,874: Speech end
+[rosout][INFO] 2023-06-08 16:37:54,647: Start speech:  Картина - Купание красного коня. Автор - Кузьма Сергеевич Петров-Водкин
+[rosout][INFO] 2023-06-08 16:38:02,748: Speech end
+[rosout][INFO] 2023-06-08 16:38:08,481: Start speech:  Картина - Последний день Помпеи. Автор - Карл Павлович Брюллов
+[rosout][INFO] 2023-06-08 16:38:14,908: Speech end
+[rosout][INFO] 2023-06-08 16:38:20,710: Start speech:  Картина - Ночной дозор. Автор - Рембрандт
+[rosout][INFO] 2023-06-08 16:38:25,519: Speech end
+[rosout][INFO] 2023-06-08 16:38:31,356: Start speech:  Картина - Постоянство памяти. Автор - Сальвадор Дали
+[rosout][INFO] 2023-06-08 16:38:38,311: Speech end
+[rosout][INFO] 2023-06-08 16:38:44,089: Start speech:  Картина - Черный квадрат. Автор - Каземир Малевич
+[rosout][INFO] 2023-06-08 16:38:50,609: Speech end
+[rosout][INFO] 2023-06-08 16:38:56,396: Start speech:  Картина - Девушка с жемчужной серёжкой. Автор - Ян Вермеер
+[rosout][INFO] 2023-06-08 16:39:03,590: Speech end
+[rosout][INFO] 2023-06-08 16:39:09,335: Start speech:  Картина - Сикстинская мадонна. Автор - Рафаэль Санти
+[rosout][INFO] 2023-06-08 16:39:15,212: Speech end
+[rosout][INFO] 2023-06-08 16:39:20,910: Start speech:  Картина - Мона Лиза. Автор - Леонардо Да Винчи
+[rosout][INFO] 2023-06-08 16:39:25,879: Speech end
+[rosout][INFO] 2023-06-08 16:39:31,707: Start speech:  Картина - Купание красного коня. Автор - Кузьма Сергеевич Петров-Водкин
+[rosout][INFO] 2023-06-08 16:39:39,495: Speech end
+[rospy.core][INFO] 2023-06-08 16:39:39,575: signal_shutdown [signal-2]
+[rospy.internal][INFO] 2023-06-08 16:39:39,596: topic[/rosout] removing connection to /rosout
+[rospy.impl.masterslave][INFO] 2023-06-08 16:39:39,606: signal-2
+[rospy.core][INFO] 2023-06-08 16:39:40,205: signal_shutdown [atexit]
