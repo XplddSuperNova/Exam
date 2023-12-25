@@ -1,8 +1,0 @@
-prefix=/home/stud/s_simple/devel
-
-Name: simple_service
-Description: Description of simple_service
-Version: 0.0.0
-Cflags: -I/home/stud/s_simple/devel/include
-Libs: -L${prefix}/lib 
-Requires: 
