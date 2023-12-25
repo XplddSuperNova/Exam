@@ -1,0 +1,21 @@
+Основные команды:
+
+- $ export ROS_HOSTNAME=my_robot.local
+- $ export ROS_MASTER_URI=http://my_robot.local:11311
+-  http://<IP>:8080
+- ssh pi@turtlebro20.local
+- ssh pi@192.168.0.11
+- lsd_release -a (назв-ие дист, код сборки)
+- hostnameyes (присвоенное имя робота к сети)
+- cd
+- ls
+- nano
+- python –version (версия питона)
+- sensors (темп проц)
+- rosversion turtlebro (версия пакета)
+- rosservice call /board_info "request: {}" (версия прошивки и серийный номер)
+- free (-к) (размер оперативной памяти)
+- date (timedatectl) (текущий часовой пояс)
+- sudo iwlist wlan0 freq (частота)
+- rostopic list (топик)
+- v4l2-ctl --list-formats-ext (разрешение камеры)
